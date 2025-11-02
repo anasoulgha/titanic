@@ -25,55 +25,7 @@ El archivo se mostrara en la carpeta resouces y tendra el nombre Informe.md
 
 Estructura del proyecto:
 
-.
-└── titanic
-    ├── pom.xml
-    ├── README.md
-    ├── src
-    │   ├── main
-    │   │   ├── java
-    │   │   │   └── es
-    │   │   │       └── etg
-    │   │   │           └── dam
-    │   │   │               └── titanic
-    │   │   │                   ├── botes
-    │   │   │                   │   ├── Bote.java
-    │   │   │                   │   └── Pasajeros.java
-    │   │   │                   ├── emergencia
-    │   │   │                   │   ├── GeneradorInforme.java
-    │   │   │                   │   └── ServicioEmergencias.java
-    │   │   │                   └── titanic
-    │   │   │                       └── Main.java
-    │   │   └── resources
-    │   │       └── Informe.md
-    │   └── test
-    │       └── java
-    └── target
-        ├── classes
-        │   ├── es
-        │   │   └── etg
-        │   │       └── dam
-        │   │           └── titanic
-        │   │               ├── botes
-        │   │               │   ├── Bote.class
-        │   │               │   └── Pasajeros.class
-        │   │               ├── emergencia
-        │   │               │   ├── GeneradorInforme.class
-        │   │               │   └── ServicioEmergencias.class
-        │   │               └── titanic
-        │   │                   └── Main.class
-        │   └── Informe.md
-        ├── generated-sources
-        │   └── annotations
-        ├── generated-test-sources
-        │   └── test-annotations
-        ├── maven-status
-        │   └── maven-compiler-plugin
-        │       └── compile
-        │           └── default-compile
-        │               ├── createdFiles.lst
-        │               └── inputFiles.lst
-        └── test-classes
+![Nivel2](src/main/resources/Estructura.png)
 
 ## Elementos destacables del desarrollo
 
