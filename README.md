@@ -106,3 +106,7 @@ Estructura del proyecto:
 ## Conclusiones individuales
 
 Direa que ha sido el proyecto mas dificil que he hecho nunca en cuanto como al diseño como a la parte programndo. Ha habido cosas nuevs que he aprendido como lo del `Thread.sleep(2000);` o `DateTimeFormatter`
+
+## Ruta Git
+
+https://github.com/anasoulgha/titanic
