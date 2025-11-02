@@ -7,8 +7,11 @@
 ![Analisis](src/main/resources/Analisis.jpg)
 
 ## Diseño de solucion
+
 ![Nivel1](src/main/resources/Nivel1.jpg)
+
 ![Nivel2](src/main/resources/Nivel2.jpg)
+
 ## Manual de usuario
 
 Para ejecutar desde la consola de comandos se debe ingresar este comando entero

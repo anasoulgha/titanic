@@ -24,8 +24,7 @@ public class ServicioEmergencias {
     private static final int POSICION_HOMBRES = 3;
     private static final int POSICION_NINOS = 4;
 
-    private Pasajeros[] 
-    registro = new Pasajeros[NUM_BOTES];
+    private Pasajeros[] registro = new Pasajeros[NUM_BOTES];
 
     public void ejecutarSimulacion() {
         for (int i = 0; i < NUM_BOTES; i++) {
@@ -36,7 +35,7 @@ public class ServicioEmergencias {
                 id = LETRA_BOTE + i;
             }
             try {
-                String[] comandos = {COMANDO_JAVA, "-cp", RUTA_CLASES, CLASE_BOTE, id};
+                String[] comandos = { COMANDO_JAVA, "-cp", RUTA_CLASES, CLASE_BOTE, id };
 
                 Process proceso = Runtime.getRuntime().exec(comandos);
 
