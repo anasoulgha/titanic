@@ -2,6 +2,22 @@
 
 ## Hecho por **Anas Oulghazi**
 
+---
+
+## Índice
+
+- [TITANIC](#titanic)
+  - [Hecho por **Anas Oulghazi**](#hecho-por-anas-oulghazi)
+  - [Índice](#índice)
+  - [Analisis del problema](#analisis-del-problema)
+  - [Diseño de solucion](#diseño-de-solucion)
+  - [Manual de usuario](#manual-de-usuario)
+  - [Elementos destacables del desarrollo](#elementos-destacables-del-desarrollo)
+  - [Problemas encontrados](#problemas-encontrados)
+  - [Conclusiones individuales](#conclusiones-individuales)
+  - [Ruta Git](#ruta-git)
+
+---
 ## Analisis del problema
 
 ![Analisis](src/main/resources/Analisis.jpg)
